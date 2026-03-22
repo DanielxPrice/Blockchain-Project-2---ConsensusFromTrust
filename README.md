@@ -7,10 +7,10 @@
 - **Daniel Price**  
   danielprice1642@csu.fullerton.edu
 - **Minjae Kim**  
-  [add email here]
+  minjaek@csu.fullerton.edu
 
 ## Extra Credit
-**Implemented:** [Yes or No]
+**Implemented:**
 
 ## Special Notes
 [Add any notes here]
